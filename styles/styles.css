@@ -39,6 +39,15 @@ body {
   color: #000000;
   margin-bottom: 25px;
 }
+
+.first_name {
+  color: yellow;
+}
+
+.last_name {
+  color: blue;
+}
+
 .about_discription {
   font-style: normal;
   font-weight: 400;
